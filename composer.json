@@ -1,0 +1,12 @@
+{
+    "name": "decouple/registry",
+    "description": "Hack registry container created for Decouple framework, used to store data to be used by the injector.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andrew Ewing",
+            "email": "drew@phenocode.com"
+        }
+    ],
+    "require": {}
+}
